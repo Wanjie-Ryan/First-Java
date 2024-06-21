@@ -1,9 +1,7 @@
 
-p
-java:S1481"-Remove this unused "mortgage" local variable.(Àá¹ç8½Àøİƒ2J$7e0e9b3a-e042-46db-b6b9-61c33a2bc861
-q
-java:S1481")Remove this unused "rate" local variable.(¡¯Ğÿÿÿÿÿ8½Àøİƒ2J$1299702a-9aaa-4e50-8d49-026d60f2c33d
-n
-java:S1481"+Remove this unused "period" local variable.(À‚öİ8½Àøİƒ2J$d39c8a28-9b51-43d6-b2ae-8c498790cb5c
-m	java:S106"+Replace this use of System.out by a logger.(——ì8¾Àøİƒ2J$7543db4f-89b9-452e-9853-91370faef233
-m	java:S106"+Replace this use of System.out by a logger.(äæ…Å8úİƒ2J$ecbab224-ed6f-43c4-8659-10631d2ac2b2
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ç¥çûÿÿÿÿ8ˆ—úŞƒ2J$a2bde9d0-2286-4884-bdcf-2503c1af208d
+m	java:S106"+Replace this use of System.out by a logger.(——ì8—úŞƒ2J$70f79407-f654-4702-8733-55fa8d7e815a
+m	java:S106"+Replace this use of System.out by a logger.(äæ…Å8—úŞƒ2J$971cf9f9-ee03-4beb-8dea-73302fb2e46f
+m	java:S106"+Replace this use of System.out by a logger.(Áõíó8—úŞƒ2J$a1629b60-81d7-49b4-a214-037c7099d0fa
+r	java:S106"+Replace this use of System.out by a logger.(ñö°ªıÿÿÿÿ8›ÕûŞƒ2J$30bc7643-37e8-40cd-b2cf-8facea626c1e
+r	java:S106"+Replace this use of System.out by a logger.(—³Ä¹øÿÿÿÿ8°›şŞƒ2J$24493ded-f211-496d-8a3e-d3bb222cc9e7
