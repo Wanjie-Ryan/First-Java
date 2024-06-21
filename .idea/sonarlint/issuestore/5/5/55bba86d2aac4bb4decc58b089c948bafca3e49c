@@ -1,0 +1,17 @@
+
+}
+java:S1854":Remove this useless assignment to local variable "decNum".(äõ•§8ù‘Øƒ2J$778dfc84-49cc-42b5-b846-c1e1731db562
+n
+java:S1481"+Remove this unused "decNum" local variable.(äõ•§8ù‘Øƒ2J$ff2ecf08-1e9b-418e-b950-a8863da00aeb
+t
+java:S1481",Remove this unused "isAdult" local variable.(‰™şıÿÿÿÿ8ù‘Øƒ2J$6c2be83b-270e-4e2f-974c-998e6d10f3e6
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(±Ğìùÿÿÿÿ8Ÿù‘Øƒ2J$c797f0bd-04bd-46cc-8be8-79faa3524708
+r	java:S106"+Replace this use of System.out by a logger.(úœüıÿÿÿÿ8 ù‘Øƒ2J$f55d3716-3f60-4a25-a016-98ddb04debd2
+r
+java:S1874"/Remove this use of "getYear"; it is deprecated.(ÌçŞ8¡ù‘Øƒ2J$93ad39ea-d5e7-4ffc-8c5d-482dd8057448
+m	java:S106"+Replace this use of System.out by a logger.(Íö§8¡ù‘Øƒ2J$d6794f79-da68-4f0a-8c8f-7f5cb32503f4
+m	java:S106"+Replace this use of System.out by a logger.(ôÌ¿ò8¡ù‘Øƒ2J$3ae2181f-c21b-4e65-aa94-4a2a58e853cc
+r	java:S106"+Replace this use of System.out by a logger.(—Ş¡²ıÿÿÿÿ8¡ù‘Øƒ2J$244bc503-602b-495f-9c89-042cb8a61d2e
+r	java:S106"+Replace this use of System.out by a logger.(ÎğÁ³ÿÿÿÿÿ8¢ù‘Øƒ2J$161f60cb-56db-424b-bcc6-8786ae17589b
+r	java:S106"+Replace this use of System.out by a logger.(¸Š¬Ëúÿÿÿÿ8¢ù‘Øƒ2J$0fbbd110-1d54-4587-b9ec-42cb2c55034a
+m	java:S106!"+Replace this use of System.out by a logger.(®âÍ 8ÄÜÓÚƒ2J$dfd964b9-ed41-48b8-9de7-539740b5c934

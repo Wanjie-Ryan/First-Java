@@ -1,17 +1,0 @@
-
-]
-java:S1220""Move this file to a named package.8õ²ÏÖƒ2J$8e8e19fd-487a-43dc-bebe-4ecc3b759af8
-}
-java:S1854":Remove this useless assignment to local variable "decNum".(äõ•§8ÿ²ÏÖƒ2J$7cae2f4b-6b10-4424-99b3-898ab66903be
-n
-java:S1481"+Remove this unused "decNum" local variable.(äõ•§8³ÏÖƒ2J$dcef971c-a960-4996-b119-7a44d6164b77
-t
-java:S1481	",Remove this unused "isAdult" local variable.(‰™şıÿÿÿÿ8‚³ÏÖƒ2J$9e78c357-f036-4e87-8639-cb0a9355d920
-ƒ	java:S125
-"<This block of commented-out lines of code should be removed.(±Ğìùÿÿÿÿ8‚³ÏÖƒ2J$290fb8a4-c4ff-4353-bb45-adb02348b6c1
-r	java:S106"+Replace this use of System.out by a logger.(úœüıÿÿÿÿ8‡³ÏÖƒ2J$0141cb12-5965-4703-b69e-f7fa31ffea01
-r
-java:S1874"/Remove this use of "getYear"; it is deprecated.(ÌçŞ8Œ³ÏÖƒ2J$7c4e1f8f-c72e-46ef-92a4-cdfb440c16ed
-m	java:S106"+Replace this use of System.out by a logger.(Íö§8³ÏÖƒ2J$42b5f862-74f3-45a0-a480-f57110f9113d
-m	java:S106"+Replace this use of System.out by a logger.(ôÌ¿ò8³ÏÖƒ2J$d0589d70-556d-4612-bd5c-24d50bd82767
-r	java:S106"+Replace this use of System.out by a logger.(—Ş¡²ıÿÿÿÿ8’ÈúÖƒ2J$92e3ea57-850c-4ea5-a3d2-eac3bb41fa34

@@ -1,3 +1,6 @@
+package com.basics.first;
+
+import java.util.Arrays;
 import java.util.Date;
 
 public class Main {
@@ -20,6 +23,16 @@ public class Main {
 
         System.out.println(age);
         System.out.println(views);
+
+        int [] myarr= {1,2,3,4,5,6 };
+        System.out.println(myarr[2]);
+
+        System.out.println(myarr.length);
+        Arrays.sort(myarr);
+
+        System.out.println(Arrays.toString(myarr));
+
+
 
     }
 }
