@@ -29,7 +29,11 @@ public class Mortgage {
 
         System.out.println("The mortgage is: " +mortgage);
 
+        int temp = 34;
+        if(temp >30) {
+            System.out.print("It is hot");
 
+        }
 
     }
 }
